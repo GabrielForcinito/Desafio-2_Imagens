@@ -25,6 +25,6 @@ Neste projeto pratiquei:
 - Caminho de arquivos (relativo)
 - Inserção de favicon
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Gabriel Forcinito
